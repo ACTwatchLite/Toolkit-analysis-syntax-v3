@@ -1,7 +1,4 @@
 
-the file pathways need to be updated once we finalize SP names
-
-
 /*******************************************************************************
 	ACTWATCH LITE 
 	MASTER .DO FILE 
